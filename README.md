@@ -41,8 +41,9 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ameer22l7555/cancer-diagnosis-prediction.git
-   cd cancer-diagnosis-prediction
+   [git clone https://github.com/ameer22l7555/cancer-diagnosis-prediction.git](https://github.com/ameer22l7555/ML_Models_Cancer_Acc.git)
+   cd ML_Models_Cancer_Acc
+   code .
    ```
 
 2. **Install Dependencies**:
